@@ -1,5 +1,5 @@
 # Student-Migration-Analysis-Dashboard
-This project explores key patterns in student migration using an interactive Excel dashboard. The goal is to understand how age, gender, educational qualification, and destination countries influence migration trends and satisfaction with foreign education.
+This project explores key patterns in student migration using an interactive Power BI dashboard. The goal is to understand how age, gender, educational qualification, and destination countries influence migration trends and satisfaction with foreign education.
 
 ##Key Insights Covered
   Age Distribution of migrated students
@@ -17,7 +17,7 @@ This project explores key patterns in student migration using an interactive Exc
   Built entirely using Microsoft Excel
 
 ##Tools Used
-  Excel
+  Power BI
   Pivot Charts
   Data Cleaning & Transformation
   Visualization Design
